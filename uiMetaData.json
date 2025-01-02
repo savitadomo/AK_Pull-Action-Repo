@@ -1,7 +1,7 @@
 {
   "name": "DataGrid Connector - Pull Action",
   "connectorType": "datagrid",
-  "userId": null,
+  "userId": "ankitakore",
   "domoClientId": null,
   "domoClientSecret": null,
   "additionalInfo": null,
